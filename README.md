@@ -16,7 +16,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,html,css,js,tailwind,git,mongodb,nodejs,react,express"/></a>
+<br>
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar-saini&show_icons=true&locale=en&layout=compact" alt="bhaskar-saini" /></p>
