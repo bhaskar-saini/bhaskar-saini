@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, My name is Bhaskar Saini</h1>
 <h3 align="center">I am a passionate software developer based in India</h3>
 
+<p><img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar-saini&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar-saini" /> </p> -->
+
 - 📫 **bhaskarsaini333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/bhaskar-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-saini" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhaskarsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaskarsaini" height="30" width="40" /></a>
@@ -14,4 +19,6 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,html,css,js,tailwind,git,mongodb,nodejs,react,express"/></a>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar-saini&show_icons=true&locale=en&layout=compact" alt="bhaskar-saini" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar-saini&show_icons=true&locale=en&layout=compact" alt="bhaskar-saini" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar-saini&show_icons=true&locale=en" alt="bhaskar-saini" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-saini&" alt="bhaskar-saini" /></p>
